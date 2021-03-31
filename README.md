@@ -4,6 +4,10 @@
 
 ## 基础
 
+### `k8s`架构
+
+![pod1](assets/images/k8s-art.jpg)
+
 ### Pod
 
 ![pod1](assets/images/pod-1.jpg)
