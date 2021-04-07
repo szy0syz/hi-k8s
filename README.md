@@ -6,6 +6,8 @@
 
 ### `k8s`架构
 
+![k8s](assets/images/k8s.jpg)
+
 ![pod1](assets/images/k8s-art.jpg)
 
 `k8s`这个平台到底想帮我们解决什么问题？
